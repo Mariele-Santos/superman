@@ -1,0 +1,99 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-size: 20px;
+}
+/*----------------------secao1------------------------*/
+.secao-topo{
+    background-color: rgba(9, 9, 243, 0.897);
+    height: 60px;
+    color: aliceblue;
+
+   
+}
+.titulo{
+    padding: 20px 100px;
+
+}
+
+a{
+    border-radius: 15px;
+    background-color: aliceblue;
+    padding: 5px;
+    color: blue;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+}
+/*----------------------secao2------------------------*/
+img{
+    width: 100%;
+}
+
+h2{
+    padding-top: 10px;
+}
+
+/*----------------------secao3------------------------*/
+.secao-conteudo{
+    margin: 0 auto;
+    padding-bottom: 40px;
+    text-align: center;
+}
+ h2{
+    font-size: 26px;
+ }
+p{
+    padding: 10px 0;
+    width: 900px;
+    margin: 0 auto;
+    text-align: justify;
+}
+
+/*----------------------secao4------------------------*/
+.secao-disponibilidade{
+    margin: 0 auto;
+    text-align: center;
+}
+ 
+.tv{
+    width: 50%;
+    padding: 10px 0;
+ }
+
+ /*----------------------secao5------------------------*/
+ .galeria{
+    display:flex;
+    overflow-x: scroll;
+    margin: 0 auto 20px auto;
+    width: 800px;
+ }
+
+ .galeria img{
+    width: 315px;
+    margin: 10px;
+ }
+
+ .img-sombra{
+    box-shadow: 10px 10px 10px #939393;
+   
+ }
+/*----------------------secao6------------------------*/
+.paragrafo{
+    text-align: justify;
+    width: 800px;
+    margin: 0 auto;
+    padding: 15px 0;
+    
+}
+
+ /*----------------------secao7------------------------*/
+ .secao-final{
+    background-color: rgba(9, 9, 243, 0.897);
+    height: 50px;
+ }
+
+ h3{
+    color: aliceblue;
+    padding-top: 10px;
+ }
